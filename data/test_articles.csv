@@ -1,0 +1,11 @@
+id,source,url,title,ground_truth
+1,The Guardian,https://www.theguardian.com/us-news/2026/oct/13/elon-musk-political-donor-midterm-elections,,data/ground_truth/article_01.txt
+2,The Guardian,https://www.theguardian.com/technology/2026/oct/13/apple-new-smart-home-device-ai,,data/ground_truth/article_02.txt
+3,Euronews,https://www.euronews.com/2026/10/13/eu-advances-ukraine-accession-as-hungary-lifts-veto-paving-way-for-zelenskyy-magyar-meetin,,data/ground_truth/article_03.txt
+4,Euronews,https://www.euronews.com/2026/10/13/anthropic-warns-ai-will-soon-self-replicate-and-spread-beyond-data-centres,,data/ground_truth/article_04.txt
+5,France 24,https://www.france24.com/en/europe/20261013-russia-pounds-ukrainian-cities-spares-energy-targets-for-first-time-since-trump-ceasefire,,data/ground_truth/article_05.txt
+6,France 24,https://www.france24.com/en/france/20261013-tens-of-thousands-rally-across-france-as-high-school-protests-gather-strength,,data/ground_truth/article_06.txt
+7,Deutsche Welle,https://www.dw.com/en/ukraine-allies-in-poland-after-starlink-sabotage-trump-diesel-deal/a-79653869,,data/ground_truth/article_07.txt
+8,Deutsche Welle,https://www.dw.com/en/uk-students-call-for-school-uniforms-to-be-banned-in-pornography/a-79554324,,data/ground_truth/article_08.txt
+9,TechCrunch,https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/,,data/ground_truth/article_09.txt
+10,TechCrunch,https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/,,data/ground_truth/article_10.txt

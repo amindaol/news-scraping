@@ -1,0 +1,23 @@
+Diesel fuel powers everything from shipping to agriculture, and with prices hitting record highs in recent weeks, governments around the world are scrambling to contain the fallout. 
+
+For now, that’s meant releasing fuel from stockpiles, but in the coming years, the answer might be a new technology from an MIT startup called LNK Energies.
+
+LNK has created a way to convert existing heavy-duty trucks from diesel to hydrogen, slashing pollution and costs while shielding operators from the price spikes that result from geopolitical instability like the war in Iran. “If you look at total cost of ownership of a Class 8 truck, it’s 13% cheaper than diesel,” Alexis Huynh, chief technology officer at LNK Energies, told TechCrunch. (Class 8 is the heaviest category of trucks, including big rigs.)
+
+Automotive companies have been exploring the use of hydrogen in long-haul trucking in part because refilling a hydrogen tank is faster than recharging the massive batteries those trucks require. But hydrogen is challenging to move to refilling stations, and the pressure tanks required to store it on the truck are large and costly. 
+
+LNK’s approach is to carry hydrogen chemically attached to another compound. Liquid organic hydrogen carriers, or LOHCs, are liquids that can absorb and later release hydrogen, and they have been widely studied, but mostly for moving large quantities of hydrogen from refineries to fueling stations. The equipment needed to separate hydrogen from the LOHC, known as a reactor, has been too big to fit onto a truck.
+
+“A lot of the reactors that LOHC companies have today are really large. They’re about the size of a shipping container,” Huynh said. “We have shrunk that basically to the size of a mini fridge.”
+
+Moving the reactor onto the truck saves a surprising amount of energy. When hydrogen is stored on a truck, it must be pressurized to more than 11,000 psi (800 bar), roughly 800 times normal air pressure, and squeezing it that hard takes a lot of power. Because LNK’s fuel carries the hydrogen in liquid form and releases it on board as needed, that step goes away. “We’re eliminating the expensive compression step,” Sayandeep Biswas, co-founder and CEO of LNK Energies, told TechCrunch. 
+
+In LNK’s system, once the hydrogen is released on the truck, it can be burned in a conventional internal combustion engine, the kind in today’s diesel trucks, with just a few modifications. The company uses waste heat from the engine to help power the on-board reactor. Or, if the trucking company wants to fully eliminate combustion emissions, it can use fuel cells instead, which convert hydrogen into electricity to power electric motors.
+
+The LOHC can be stored in a traditional fuel tank and dispensed using pumps, just like diesel. “The entire hydrogen infrastructure doesn’t need to exist,” Biswas said. “It’s just a standard diesel station.”
+
+Biswas and Huynh have a demonstration reactor working in the lab that can power an engine from a lawnmower. In 18 months, they plan to install a larger version in a commercial truck. 
+
+The trucks will cost more up front, but promise to be cheaper to operate. The duo are confident that they can undercut diesel at a price of $6.50 per gallon after they’ve made just 50 to 100 trucks. None of their projections include government subsidies. “The idea isn’t to have a technology that is cheaper at scale, but one that is cheaper even during that adoption period,” Biswas said.
+
+LNK will present live onstage at TechCrunch Disrupt, taking place October 13-15 in San Francisco, as part of our Startup Battlefield pitch competition. Come join us in San Francisco and take part in the action.

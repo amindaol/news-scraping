@@ -1,0 +1,15 @@
+Anthropic announced this week that small AI models are just months away from being able to self-replicate themselves on internet-of-things devices such as smart ovens and TVs.
+That matters because today’s AI models operate in data centres, where the companies that own them can pull the plug if something goes wrong.
+A model scattered across thousands of poorly secured gadgets in homes and offices would have no such off switch. Stopping it would mean tracking down and cleaning every infected device, making it extremely hard to halt if it turned to cyberattacks.
+The latest announcement comes in a year that has seen the world’s leading AI models and their agents repeatedly bypass their safety nets or guardrails, mounting attacks on competing companies and government agencies around the world.
+While this is one way a rogue AI could spread, Anthropic warned that a self-replicating AI could also be a “powerful cyber model that breaches data centres at high pace, or a model that scams people for compute credits”.
+The company says it cannot say for certain what form exactly autonomous AI replication will take.
+Models with 30 billion parameters or fewer can already complete many of the steps needed to replicate, though they make mistakes when stringing them together end to end, according to Anthropic.
+But if small models keep improving at their current historical rate, they will be able to match this capability by the end of the year.
+Anthropic says the cyberthreat posed by self-replicating AI is an unintended consequence of progress elsewhere.
+“The capabilities that make AI models generally powerful coding agents also generalize to cyber tasks, including autonomous replication,” the company said in a statement.
+Code that copies itself from one computer to another is nothing new. Some of the most damaging cyberattacks in history have relied on this kind of self-spreading program, known as a worm.
+The 2010 Stuxnet attack used a sophisticated worm, widely believed to have been built by the US and Israel, to sabotage centrifuges at Iran’s Natanz uranium enrichment plant.
+In 2017, the WannaCry ransomware attack locked users around the world out of their files and demanded ransoms in Bitcoin.
+Unlike these worms, however, AI models and agents will be able to work out unfamiliar devices on their own. That would let them spread not only from computer to computer, but also from computers to other devices.
+Anthropic predicts a future “awash with agents running on all types of hardware, including some that aren’t under human control”.
